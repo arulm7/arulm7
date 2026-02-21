@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡About Me:
 🔭 I’m currently working on Full Stack Web & Android Applications<br>🤝 I’m looking to collaborate on Open Source, Web Apps, Android & AR/VR projects<br>🆘 I’m looking for help with Advanced Backend, Cloud & System Design<br>🌱 I’m currently learning React Native, Django, APIs, and Automation Testing<br>💬 Ask me about Java, Python, Web Development, Android, Unity AR<br>⚡ Fun fact: I love building projects that turn ideas into real applications 🚀
 
 
