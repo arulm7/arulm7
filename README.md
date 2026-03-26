@@ -33,7 +33,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=arulm7&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=arulm7&theme=radical&no-frame=true&margin-w=10&margin-h=10&v=2" />
 
 ---
 <!-- Snake -->
