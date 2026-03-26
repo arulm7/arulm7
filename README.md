@@ -32,10 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=arulm7&theme=radical&no-frame=true&margin-w=10&margin-h=10&v=2" />
-
----
 <!-- Snake -->
 <img src="https://raw.githubusercontent.com/arulm7/arulm7/output/snake.svg" />
 
