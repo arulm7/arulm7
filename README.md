@@ -28,7 +28,6 @@
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=arulm7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arulm7&theme=dark" />
 
 ---
