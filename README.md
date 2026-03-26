@@ -38,7 +38,7 @@
 
 ---
 <!-- Snake -->
-<img src="https://raw.githubusercontent.com/arulm7/arulm7/output/snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/arulm7/arulm7/output/snake.svg" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arulm7&theme=react-dark" />
