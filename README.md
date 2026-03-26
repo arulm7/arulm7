@@ -31,6 +31,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
 </div>
+---
 
 ### ⚡ About Me:
 🔭 I’m currently working on Full Stack Web & Android Applications  
