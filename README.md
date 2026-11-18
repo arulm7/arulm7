@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arul%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Android%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+
 <h1 align="center">Hi, I'm Arul 👋</h1>
 
 <p align="center">
@@ -95,6 +97,24 @@ I build full-stack web apps and Android apps, and I mentor students on project s
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arulm7/arulm7/output/snake.svg" alt="Snake contribution graph" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arulm7&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+---
+
 <p align="center">
   <strong>⭐ Thanks for visiting my profile. Let's build something amazing together.</strong>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
