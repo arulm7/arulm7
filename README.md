@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arul%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Android%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<h1 align="center">Hi, I'm Arul 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7dd3fc&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+Developer;Spring+Boot+Developer;Student+Mentor" alt="typing banner" />
 </p>
